@@ -43,25 +43,62 @@ Tree of Saviorのキャラログイン時に、チャット欄に「MARKET SHOW 
 
 ### [EN]
 
-I'm sorry. It is a Google translation
+	■ What is this?
 
-	■ What is this
+Displays additional information on certain market items. The following will be displayed:
+* Gem Level.
+* Card Level.
+* Abilities and Enchants on equipment.
+* Skill name and level of Daino scrolls.
+* Socketed Gems on equipment. (v.1.0.3 update!!)
 
-Items on the market will be marked as follows.  
-* Level is added to the name of the gem.
-* Level is added to the name of the card.
-* The ability of the hair accessory is indicated. (Japanese notation supported)
-* Skill name and level will be added to skill spellbook.
-* Displays gems stuck on weapons and armor. (v.1.0.3 update!!)
-
-You can not search by level and ability.  
+Searching by level/ability is not available.
 **Special Thanks to tosken**
 **Special Thanks to zealot**
 
-Weapons and armor gems are pink if they are Gem Roasting, things not done and monster gems are white.
+Gems that are Gem Roasted will be displayed as Pink while Gems that are not roasted or are Monster Gems will be displayed as White.
 
-	■ How to use
+	■ Installation
 
 ** Delete "_marketshowlevel-⛄-v1.0.2.ipf" or earlier if it already exists **
 
-Please copy "_marketshowlevel-⛄-v1.0.3.ipf" into the "data" folder of the Tree of Savior installation folder. Chara of Tree of Savior When introducing "MARKET SHOW LEVEL v1.0.3 loaded!" In the chat field, installation is completed.
+Please copy "_marketshowlevel-⛄-v1.0.3.ipf" into the "data" folder of the Tree of Savior installation folder. "MARKET SHOW LEVEL v1.0.3 loaded!" will be displayed in chat upon login if successful.
+
+	■ Notes
+	
+Since affixes are generally long in English, they have been shortened to 6 characters or less. They are listed as follows:
+
+* HP = HP Up
+* HPR = HP Recovery
+* SP = SP Up
+* SPR = SP Recovery
+* PATK = Physical Attack
+* MATK = Magical Attack
+* DEF = Defense
+* MDEF = Magic Defense
+* MAMP = Magic Amplification
+* CATK = Critical Attack
+* CRate = Critical Rate
+* CRes = Critical Resistance
+* BLK = Block
+* ACC = Accuracy
+* EVA = Evasion
+* FATK = Fire Attack
+* IATK = Ice Attack
+* PSNATK = Poison Attack
+* LATK = Lightning Attack
+* EATK = Earth Attack
+* GATK = Ghost Attack
+* HATK = Holy Attack
+* DATK = Dark Attack
+* FRES = Fire Resistance
+* IRES = Ice Resistance
+* PSNRES = Poison Resistance
+* LRES = Lightning Resistance
+* ERES = Earth Resistance
+* GRES = Ghost Resistance
+* HRES = Holy Resistance
+* DRES = Dark Resistance
+* MSpD = Movement Speed
+* AoE AR = AoE Attack Ratio
+* AoE DR = AoE Defense Ratio
