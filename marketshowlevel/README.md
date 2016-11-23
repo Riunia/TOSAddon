@@ -53,7 +53,7 @@ Displays additional information on certain market items. The following will be d
 * Socketed Gems on equipment. (v.1.0.3 update!!)
 
 Searching by level/ability is not available.
-**Special Thanks to tosken**
+**Special Thanks to tosken**  
 **Special Thanks to zealot**
 
 Gems that are Gem Roasted will be displayed as Pink while Gems that are not roasted or are Monster Gems will be displayed as White.
