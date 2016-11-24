@@ -55,7 +55,7 @@ Displays additional information on certain market items. The following will be d
 * Skill name and level of Daino scrolls.
 * Socketed Gems on equipment. (v.1.0.3 update!!)
 
-Searching by level/ability is not available.  
+Searching by level/ability is not available.
 **Special Thanks to tosken**  
 <<<<<<< HEAD
 **Special Thanks to zealot**
