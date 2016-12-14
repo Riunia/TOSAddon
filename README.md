@@ -22,7 +22,7 @@ marketshowlevel
 |images|images|
 |---|---|
 |![alt text](http://i.imgur.com/YC1b3hX.jpg "Gem Screenshot")|![alt text](http://i.imgur.com/u0egdkB.jpg "Card Screenshot")|
-|![alt text](http://i.imgur.com/lF1XSg5.png "Hair Screenshot")|![alt text](http://i.imgur.com/37rrlYU.png "Hair JP Screenshot")|
+|![alt text](http://i.imgur.com/z2JUa1g.png "Hair Screenshot")|![alt text](http://i.imgur.com/37rrlYU.png "Hair JP Screenshot")|
 |![alt text](http://i.imgur.com/3G617Gk.png "Spell Screenshot")|![alt text](http://i.imgur.com/JJYg6HJ.png "EquipJem Screenshot")|
 
 
@@ -41,4 +41,16 @@ An add-on that adds the following information when browsing market items:
 * Card Level.
 * Any abilities and enchantments on the equipment.
 * The skill name and level of the Daino scroll.
-* Socketed gems on equipment. (v.1.0.3 update!!)
+* Socketed gems on equipment. (v.1.0.3 update!!)  
+
+showhidebuff
+--
+![alt text](http://i.imgur.com/xYBxip1.png "buf1")
+![alt text](http://i.imgur.com/BOJIWsL.png "buf2")
+
+ターゲットしている敵の、通常表示されないバフアイコンを表示するアドオンです。  
+
+----
+
+An add-on that displays a buff icon that is not normally displayed for targeted enemies.
+
